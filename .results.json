@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2023-12-15T09:08:47.411Z",
-    "end": "2023-12-15T09:08:47.836Z",
-    "duration": 425
+    "start": "2023-12-15T09:17:31.047Z",
+    "end": "2023-12-15T09:17:31.453Z",
+    "duration": 406
   },
   "tests": [
     {
@@ -69,7 +69,7 @@
     {
       "title": "doubles fares",
       "fullTitle": "index.js fareDoubler() doubles fares",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -164,7 +164,7 @@
     {
       "title": "doubles fares",
       "fullTitle": "index.js fareDoubler() doubles fares",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
